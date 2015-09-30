@@ -1,23 +1,30 @@
 Locating Facilities Within the Master Facility List
 ====================================================
-TODO
+
+Facilities in the MFL can be located via search and geolocation.
 
 Location Through Search
 ++++++++++++++++++++++++
-TODO
+The homepage has a search field that searches facilities by their code, name e.t.c.
 
 .. figure:: /_images/facilities/02_searching.png
     :scale: 100%
     :alt: Searching Facilities
 
+The results of the search are shown alongside the advanced search. Using the advanced
+search the query can be fine tuned e.g. listing facilities in a certain ward.
+
 .. figure:: /_images/facilities/03_search_results.png
     :scale: 100%
     :alt: Searching Facilities
 
+Opening one facility show more details about the facility. The basic details of the facility
+are displayed on top. Below the basic details, the facility's services, location on a map,
+community units and departments are displayed in tabs.
+
 .. figure:: /_images/facilities/04_b_detailed_page.png
     :scale: 100%
     :alt: Detailed Facility View
-
 
 .. figure:: /_images/facilities/04_b_detailed_page.png
     :scale: 100%
@@ -46,13 +53,13 @@ TODO
     :alt: Detailed Facility View
 
 Rating A Facility
------------------------------------------------------
+-------------------
 .. figure:: /_images/facilities/05_a_rating.png
     :scale: 100%
     :alt: Detailed Facility View
 
 
-Location  Through the Geo-locator
+Location Through the Geo-locator
 +++++++++++++++++++++++++++++++++++
 
 TODO
