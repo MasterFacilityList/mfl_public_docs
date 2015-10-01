@@ -1,0 +1,7 @@
+dependencies:
+    override:
+        - pip install -r requirements.txt
+test:
+    override:
+        - sphinx-build -W -b html -d docs/_build/doctrees docs docs/_build/html
+
