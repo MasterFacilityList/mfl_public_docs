@@ -1,6 +1,6 @@
-Master Facility List, Kenya Documentation
-==========================================
-This is the user guide to the Master Facility List `public website <http://ehealth.or.ke/>`_.
+Kenya Master Health Facility List Documentation
+===============================================
+This is the user guide to the Kenya Master Health Facility List `public website <http://ehealth.or.ke/>`_.
 
 .. toctree::
    :maxdepth: 2

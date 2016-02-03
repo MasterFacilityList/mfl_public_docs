@@ -12,7 +12,7 @@ The homepage has a search field that searches facilities by their code, name e.t
     :alt: Searching Facilities
 
 The results of the search are shown alongside the advanced search. Using the advanced
-search the query can be fine tuned e.g. listing facilities in a certain ward.
+search the query can be fine tuned e.g. viewing facilities in a certain ward.
 
 .. figure:: /_images/facilities/03_search_results.png
     :scale: 100%
@@ -23,7 +23,7 @@ button in the top navigation bar.
 
 .. figure:: /_images/facilities/06_list_facilities.png
     :scale: 100%
-    :alt: Listing Facilities
+    :alt: Viewing Facilities
 
 The advanced search form on the left has fields that can further specify your search.
 
