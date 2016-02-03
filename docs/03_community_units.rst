@@ -5,7 +5,7 @@ Community Health Units (CHUs)
 CHUs are health service structures with a defined geographical area and assigned to a facility.
 
 
-Listing CHUs
+Viewing CHUs
 +++++++++++++
 
 Just like facilities, CHUs have an advanced search, available under the community units link

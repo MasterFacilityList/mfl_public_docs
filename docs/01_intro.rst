@@ -1,6 +1,6 @@
 Introduction
 ==============
-This is the publicly accessible side of the Master Facility List.
+This is the publicly accessible side of the Kenya Master Health Facility List.
 The main focus of this side is to allow easy location of facilities
 and community health units, mainly through search.
 
